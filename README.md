@@ -1,4 +1,4 @@
-[My Academic Work](https://scholar.google.com/citations?user=lFKWc8MAAAAJ&hl=en&oi=ao) -- [My Website](https://willtebbutt.github.io/)
+[Academic Work](https://scholar.google.com/citations?user=lFKWc8MAAAAJ&hl=en&oi=ao) -- [Website](https://willtebbutt.github.io/)
 
 <!--
 **willtebbutt/willtebbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
