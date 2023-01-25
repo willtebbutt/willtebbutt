@@ -1,4 +1,4 @@
-[Academic Work](https://scholar.google.com/citations?user=lFKWc8MAAAAJ&hl=en&oi=ao) -- [Website](https://willtebbutt.github.io/) -- [JuliaGaussianProcesses](https://github.com/JuliaGaussianProcesses/)
+[Academic Work](https://scholar.google.com/citations?user=lFKWc8MAAAAJ&hl=en&oi=ao) -- [Website](https://willtebbutt.github.io/) -- [Julia Gaussian Processes](https://github.com/JuliaGaussianProcesses/)
 
 
 
